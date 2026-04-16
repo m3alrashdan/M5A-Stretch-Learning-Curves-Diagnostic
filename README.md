@@ -20,7 +20,7 @@ To handle this:
 
 ##  Repository Structure
 
-```
+
 M5A-Stretch-Learning-Curves-Diagnostic/
 │
 ├── learning_curves.py
